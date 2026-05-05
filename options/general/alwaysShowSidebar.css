@@ -5,7 +5,9 @@
     display: flex !important;
 }
 .RGNMWtyj73_-WdhflrmuY[style*="display: none;"] ._9sPoVBFyE_vE87mnZJ5aB {
-    min-width: calc(100% - 4px - 12px);
+    flex-grow: 1;
+    max-width: unset;
+    width: unset !important;
 }
 .RGNMWtyj73_-WdhflrmuY[style*="display: none;"] ._3BFcmjAaMyP6GTPwc0VyWi {
     display: none;
