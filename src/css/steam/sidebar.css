@@ -378,6 +378,9 @@ body.QsvsRVwbsApgKt1MhM0fz:has(._1_yS5UP7el0aN4vntx3dx .wi0pDywRgOCxhG7OqQNaA) .
 /*
 & Download bar
 */
+body:not(:has(._1ijTaXJJA5YWl_fW2IxcaT)) ._1_yS5UP7el0aN4vntx3dx {
+    visibility: hidden !important;
+}
 ._1_yS5UP7el0aN4vntx3dx {
     position: absolute;
     bottom: calc(16px + 90px + 6px);
@@ -484,8 +487,11 @@ div:has(> ._2iJsgdTIX9Tj23rWnB7Q-c) {
 /*
 & Userpanel
 */
+body:not(:has(._1ijTaXJJA5YWl_fW2IxcaT)) ._3cykd-VfN_xBxf3Qxriccm {
+    visibility: hidden;
+}
 ._3cykd-VfN_xBxf3Qxriccm {
-    z-index: 0;
+    z-index: 1;
     box-sizing: border-box;
     position: absolute;
     bottom: 16px;
