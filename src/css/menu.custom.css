@@ -37,7 +37,10 @@ body.DesktopUI ._1n7Wloe5jZ6fSuvV18NNWI._18z-3vkWndCBO5WJgFldRK {
 
 
 body.DesktopUI ._3pofGqV0buiKAfMPEs3_82 {
+    padding: 0 !important;
+    border: unset;
     background: unset;
+    box-shadow: unset;
 }
 
 
