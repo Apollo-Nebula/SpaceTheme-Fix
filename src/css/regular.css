@@ -94,12 +94,76 @@ div.ModalPosition_TopBar {
 /*
 & Ban piracy plugins
 */
-[class*="luatools" i],
-[data-theme-name*="luatools" i],
+[class*="luatools" i] body>div,
+[data-millennium-plugin*="luatools" i] body>div,
 [data-manilua-button],
 [data-manilua-modal],
-[data-theme-name*="manilua" i],
-[data-millennium-plugin*="luatools" i],
-[data-millennium-plugin*="manilua" i] {
+[class*="manilua" i] body>div,
+[data-millennium-plugin*="manilua" i] body>div,
+[class*="lumea" i] body>div,
+[data-millennium-plugin*="lumea" i] body>div {
     display: none !important;
+}
+
+
+[class*="luatools" i] body::before,
+[data-millennium-plugin*="luatools" i] body::before {
+    content: "An error has been detected. Please go to the Millennium support server and send the error code, or send a screenshot of the error code." !important;
+    display: block !important;
+    position: fixed !important;
+    top: 50% !important;
+    left: 50% !important;
+    text-align: center;
+    transform: translate(-50%, -50%) !important;
+    color: #fff !important;
+}
+[class*="luatools" i] body::after,
+[data-millennium-plugin*="luatools" i] body::after {
+    content: "xFWDDDWBZ6";
+    position: fixed !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, 170%) !important;
+}
+
+
+[class*="manilua" i] body::before,
+[data-millennium-plugin*="manilua" i] body::before {
+    content: "An error has been detected. Please go to the Millennium support server and send the error code, or send a screenshot of the error code." !important;
+    display: block !important;
+    position: fixed !important;
+    top: 50% !important;
+    left: 50% !important;
+    text-align: center;
+    transform: translate(-50%, -50%) !important;
+    color: #fff !important;
+}
+[class*="manilua" i] body::after,
+[data-millennium-plugin*="manilua" i] body::after {
+    content: "x2XXZX5HTR";
+    position: fixed !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, 170%) !important;
+}
+
+
+[class*="lumea" i] body::before,
+[data-millennium-plugin*="lumea" i] body::before {
+    content: "An error has been detected. Please go to the Millennium support server and send the error code, or send a screenshot of the error code." !important;
+    display: block !important;
+    position: fixed !important;
+    top: 50% !important;
+    left: 50% !important;
+    text-align: center;
+    transform: translate(-50%, -50%) !important;
+    color: #fff !important;
+}
+[class*="lumea" i] body::after,
+[data-millennium-plugin*="lumea" i] body::after {
+    content: "xMQCGY3VF8";
+    position: fixed !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, 170%) !important;
 }

@@ -739,10 +739,6 @@
         {
             "MatchRegexString": "[href=\"/css/gamerecording.css\"]",
             "TargetCss": "src/css/steam/screenshotManager.css"
-        },
-        {
-            "MatchRegexString": ".*",
-            "TargetCss": "src/css/banPiracyPlugins.css"
         }
     ]
 }
