@@ -321,6 +321,7 @@ syncUserpanelWidth();
     await waitForElement('._3x1HklzyDs4TEjACrRO2tB'); // wait for game panel to load first
     // Userpanel
     const friendButton = await waitForElement('._1TdaAqMFadi0UTqilrkelR');
+    const familyButton = document.querySelector('._13vrqU6oOqmmxrsZSW5O39');
     const parent = await waitForElement('._3cykd-VfN_xBxf3Qxriccm');
 
     const buttonContainer = document.createElement('div');
@@ -336,5 +337,8 @@ syncUserpanelWidth();
     });
     
     buttonContainer.appendChild(friendButton);
+    if (familyButton) {
+        buttonContainer.appendChild(familyButton);
+    }
     parent.appendChild(buttonContainer);
 })();

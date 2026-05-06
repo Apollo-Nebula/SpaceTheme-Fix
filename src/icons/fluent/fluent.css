@@ -216,10 +216,23 @@
     font-size: 16px;
     color: #67707b;
 }
-._1TdaAqMFadi0UTqilrkelR ._1TdaAqMFadi0UTqilrkelR:hover ._1KrJ3sFAqPBN9mfpaNTU5F::before {
+._1TdaAqMFadi0UTqilrkelR:hover ._1KrJ3sFAqPBN9mfpaNTU5F::before {
     color: #fff;
 }
 ._1TdaAqMFadi0UTqilrkelR ._1KrJ3sFAqPBN9mfpaNTU5F>svg {
+    display: none;
+}
+
+/* Family, Userpannel */
+._13vrqU6oOqmmxrsZSW5O39>div::before {
+    content: "\f5c3" !important;
+    font-size: 16px;
+    color: #67707b;
+}
+._13vrqU6oOqmmxrsZSW5O39:hover>div::before {
+    color: #fff;
+}
+._13vrqU6oOqmmxrsZSW5O39 ._34bQcTHo5QKzuujoEyU1tm {
     display: none;
 }
 
