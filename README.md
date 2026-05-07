@@ -14,29 +14,6 @@ SpaceTheme Fix discord >>> https://discord.gg/qFt4UDr49A
 
 [<img width="1919" height="1032" alt="588786059-8ac36e38-65a7-4e35-92bd-a27086ab013e" src="https://github.com/user-attachments/assets/4808c01b-b59a-4f0f-9f5b-b87a21c06077" />](https://imgur.com/a/neBaYwU)
 <details>
-    <summary>More images (10. Nov. 2025)</summary>
-
-|  Library home  |  Library gamepage  |
-|  :---:  |  :---:  |
-|  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/libHome.webp)  |  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/libGamepage.webp)  |
-|  **Store**  |  **Store Gamepage**  |
-|  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/storePage.webp)  |  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/storeGamepage.webp)  |
-|  **Store Wishlist**  |  **Store Cart**  |
-|  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/storeWishlist.webp)  |  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/storeCart.webp)  |
-|  **Store News**  |  **Community**  |
-|  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/storeNews.webp)  |  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/communityPage.webp)  |
-|  **Friend list & Chat**  |    |
-|  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/friendAndChat.webp)  |    |
-</details>
-<details>
-    <summary>More images (Concepts)</summary>
-
-|  Library home  |  Library gamepage  |
-|  :---:  |  :---:  |
-|  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/concepts/conceptLibHome.webp)  |  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/concepts/conceptLibGamepage.webp)  |
-|  **Store**  |  **Store gamepage**  |
-|  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/concepts/conceptStorePage.webp)  |  ![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/concepts/conceptStoreGamepage.webp)  |
-</details>
 
 ## Installation
 1. Download [Millennium](https://docs.steambrew.app/users/installing) and follow the provided instructions to install the patcher.
