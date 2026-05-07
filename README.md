@@ -12,8 +12,7 @@ SpaceTheme Fix discord >>> https://discord.gg/qFt4UDr49A
 <hr>
 </div>
 
-![Preview](<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/bbc5ca4d-00a2-4dc1-8075-12e4f7a45ff0" />
-)
+![Preview](<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/bbc5ca4d-00a2-4dc1-8075-12e4f7a45ff0" />)
 <details>
     <summary>More images (10. Nov. 2025)</summary>
 
