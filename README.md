@@ -11,7 +11,9 @@ SpaceTheme Fix discord >>> https://discord.gg/qFt4UDr49A
 A modifcation of SpaceTheme that moves the Userpanel and Downloads button to their original positions this also removes the broken piracy checks. So...
 
 -Original Userpanel
+
 -Original Downloads Button
+
 -Piracy checks removed
 
 NOTES:
