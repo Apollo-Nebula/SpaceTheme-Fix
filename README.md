@@ -8,9 +8,14 @@ SpaceTheme Creator Links
 
 SpaceTheme Fix discord >>> https://discord.gg/qFt4UDr49A
 
-![GitHub Org's stars](https://img.shields.io/github/stars/SpaceTheme?style=for-the-badge&logo=github&labelColor=%23111111&color=%231e1e1e)
-<hr>
-</div>
+A modifcation of SpaceTheme that moves the Userpanel and Downloads button to their original positions this also removes the broken piracy checks. So...
+
+-Original Userpanel
+-Original Downloads Button
+-Piracy checks removed
+
+NOTES:
+I plan to eventually add the original friends list.
 
 [<img width="1919" height="1032" alt="588786059-8ac36e38-65a7-4e35-92bd-a27086ab013e" src="https://github.com/user-attachments/assets/4808c01b-b59a-4f0f-9f5b-b87a21c06077" />](https://imgur.com/a/neBaYwU)
 <details>
