@@ -1,15 +1,18 @@
 <div align="center">
 <h3><img height="64px" src="https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/logo.webp"></h3>
 
+SpaceTheme Creator Links
 [![Discord](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/community.webp)](https://discord.spacetheme.net)
 [![KoFi](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/support.webp)](https://kofi.spacetheme.net)
 [![Website](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/website.webp)](https://spacetheme.net)
+
+SpaceTheme Fix discord >>> https://discord.gg/qFt4UDr49A
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/SpaceTheme?style=for-the-badge&logo=github&labelColor=%23111111&color=%231e1e1e)
 <hr>
 </div>
 
-![Preview](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/preview.webp)
+![Preview]([https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/preview.webp](https://private-user-images.githubusercontent.com/282523098/588786059-8ac36e38-65a7-4e35-92bd-a27086ab013e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNDUyNjIsIm5iZiI6MTc3ODE0NDk2MiwicGF0aCI6Ii8yODI1MjMwOTgvNTg4Nzg2MDU5LThhYzM2ZTM4LTY1YTctNGUzNS05MmJkLWEyNzA4NmFiMDEzZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUwN1QwOTA5MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05M2U2YWE1M2ExNGUwYjgwZGE2NTI4ZjViYzc5ZTYyMzM3OTA4YjE4ZThiMDA1NGNlOTExYzJkZTY4ZWIyNDIxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.Vz6Qs55gnY4PeDGOgHpGxRB5xyhKSU4twvRVL8y4T3Q))
 <details>
     <summary>More images (10. Nov. 2025)</summary>
 
