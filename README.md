@@ -30,7 +30,9 @@ ________________________________________________________________________________
 3. C:\Program Files (x86)\Steam\steamui\skins\steam
 
    IT SHOULD LOOK LIKE THIS
-   https://imgur.com/a/BfWQVxp
+
+   <img width="435" height="449" alt="image" src="https://github.com/user-attachments/assets/bfb8cc3f-f179-456a-aae7-daec61a6c12d" />
+
 
 **Voilà! Enjoy the new look of your Steam!**
 
