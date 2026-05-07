@@ -27,7 +27,7 @@ ________________________________________________________________________________
 ## Installation
 1. Download [Millennium](https://docs.steambrew.app/users/installing) and follow the provided instructions to install the patcher.
 2. Extract the zip file you were given and place the files inside the SpaceTheme-Fix folder into your Steam skins folder
-3. C:\Program Files (x86)\Steam\steamui\skins\steam
+3. C:\Program Files (x86)\Steam\steamui\skins\Steam
 
    IT SHOULD LOOK LIKE THIS
 
