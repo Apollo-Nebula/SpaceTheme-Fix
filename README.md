@@ -7,7 +7,7 @@ SpaceTheme Creator Links
 [![Website](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/website.webp)](https://spacetheme.net)
 
 SpaceTheme Fix discord >>> https://discord.gg/qFt4UDr49A
-
+_________________________________________________________________________________________________________________________________________________________
 A modifcation of SpaceTheme that moves the Userpanel and Downloads button to their original positions this also removes the broken piracy checks. So...
 
 -Original Userpanel
@@ -15,6 +15,7 @@ A modifcation of SpaceTheme that moves the Userpanel and Downloads button to the
 -Original Downloads Button
 
 -Piracy checks removed
+_________________________________________________________________________________________________________________________________________________________
 
 NOTES:
 I plan to eventually add the original friends list.
