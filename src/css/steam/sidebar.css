@@ -238,18 +238,8 @@
 & Game list
 */
 ._3x1HklzyDs4TEjACrRO2tB ._1ijTaXJJA5YWl_fW2IxcaT {
-    margin-bottom: calc(90px + 16px);
     border-radius: 0 0 8px 8px;
     background-color: rgb(var(--st-color-2));
-}
-body.QsvsRVwbsApgKt1MhM0fz:has(._3E5iVG630BkOHTaJJaMEMw) ._1ijTaXJJA5YWl_fW2IxcaT {
-    margin-bottom: calc(90px + 6px + 44px + 16px);
-}
-body.QsvsRVwbsApgKt1MhM0fz:has(._1_yS5UP7el0aN4vntx3dx .wi0pDywRgOCxhG7OqQNaA):has(._3E5iVG630BkOHTaJJaMEMw) ._1ijTaXJJA5YWl_fW2IxcaT {
-    margin-bottom: calc(90px + 6px + 49px + 44px + 16px + 6px);
-}
-body.QsvsRVwbsApgKt1MhM0fz:has(._1_yS5UP7el0aN4vntx3dx .wi0pDywRgOCxhG7OqQNaA) ._1ijTaXJJA5YWl_fW2IxcaT {
-    margin-bottom: calc(90px + 6px + 49px + 16px);
 }
 
 /*
@@ -378,22 +368,11 @@ body.QsvsRVwbsApgKt1MhM0fz:has(._1_yS5UP7el0aN4vntx3dx .wi0pDywRgOCxhG7OqQNaA) .
 /*
 & Download bar
 */
-body:not(:has(._1ijTaXJJA5YWl_fW2IxcaT)) ._1_yS5UP7el0aN4vntx3dx {
-    visibility: hidden !important;
-}
 ._1_yS5UP7el0aN4vntx3dx {
-    position: absolute;
-    bottom: calc(16px + 90px + 6px);
-    left: 16px;
     height: 49px;
 }
-body:has(._3E5iVG630BkOHTaJJaMEMw) ._1_yS5UP7el0aN4vntx3dx {
-    bottom: calc(16px + 90px + 6px + 44px + 6px);
-}
-
 
 ._1_yS5UP7el0aN4vntx3dx ._3vCzSrrXZzZjVJFZNg9SGu {
-    visibility: hidden;
     flex: unset;
     height: 100%;
     padding: 12px;
@@ -401,16 +380,13 @@ body:has(._3E5iVG630BkOHTaJJaMEMw) ._1_yS5UP7el0aN4vntx3dx {
     background-color: rgb(var(--st-color-2));
     box-shadow: unset;
 }
-._1_yS5UP7el0aN4vntx3dx:has(.wi0pDywRgOCxhG7OqQNaA) ._3vCzSrrXZzZjVJFZNg9SGu {
-    visibility: visible;
-}
 
 
 /*
-! Hide Add Game
+! Add Game button - restored to original position
 */
 ._1_yS5UP7el0aN4vntx3dx ._2foCkpRXhqq0UGVE50BWqj {
-    display: none;
+    flex-shrink: 0;
 }
 
 
@@ -458,14 +434,6 @@ body:has(._3E5iVG630BkOHTaJJaMEMw) ._1_yS5UP7el0aN4vntx3dx {
 /*
 ! Steam Client Notice
 */
-div:has(> ._2iJsgdTIX9Tj23rWnB7Q-c) {
-    position: fixed !important;
-    bottom: calc(16px + 16px);
-    right: 50%;
-    opacity: 1 !important;
-    transform: translateX(50%);
-}
-
 ._1_yS5UP7el0aN4vntx3dx ._2iJsgdTIX9Tj23rWnB7Q-c {
     padding: 16px;
     border-radius: 8px;
@@ -487,21 +455,13 @@ div:has(> ._2iJsgdTIX9Tj23rWnB7Q-c) {
 /*
 & Userpanel
 */
-body:not(:has(._1ijTaXJJA5YWl_fW2IxcaT)) ._3cykd-VfN_xBxf3Qxriccm {
-    visibility: hidden;
-}
 ._3cykd-VfN_xBxf3Qxriccm {
-    z-index: 1;
-    box-sizing: border-box;
-    position: absolute;
-    bottom: 16px;
-    left: 16px;
-    flex-direction: column;
-    gap: 6px;
-    margin: 0;
-    padding: 6px;
-    border-radius: 8px;
+    gap: 4px;
+    padding: 2px 4px;
+    margin-right: 90px;
+    border-radius: 6px;
     background-color: rgb(var(--st-color-2));
+    align-items: center;
 }
 ._3x1HklzyDs4TEjACrRO2tB:has(.yZ55NhARZGx1Awk2qs8pS) ._3cykd-VfN_xBxf3Qxriccm {
     margin: 6px 0 0;
@@ -533,15 +493,15 @@ body:not(:has(._1ijTaXJJA5YWl_fW2IxcaT)) ._3cykd-VfN_xBxf3Qxriccm {
     position: relative;
     gap: 0;
     max-height: unset;
-    padding: 6px;
+    padding: 2px 4px;
     font-size: 13px;
     font-weight: 600;
-    border-radius: 8px !important;
-    background-color: rgb(var(--st-color-3)) !important;
+    border-radius: 6px !important;
+    background-color: transparent !important;
     transition: background-color 0.15s ease-in-out;
 }
 ._3cykd-VfN_xBxf3Qxriccm ._2Lu3d-5qLmW4i19ysTt2jT:not(._3mGEzzp18imtSzGPkduedi) ._3yD46y5pd3zOGR7CzKs0mC:hover {
-    background-color: rgb(var(--st-color-1)) !important;
+    background-color: rgb(var(--st-color-3)) !important;
 }
 ._3cykd-VfN_xBxf3Qxriccm ._2Lu3d-5qLmW4i19ysTt2jT:not(._3mGEzzp18imtSzGPkduedi) ._3yD46y5pd3zOGR7CzKs0mC:has(._2jphjrSifC6orDT4g_7Wd) {
     align-items: flex-start;
@@ -627,7 +587,6 @@ body:not(:has(._1ijTaXJJA5YWl_fW2IxcaT)) ._3cykd-VfN_xBxf3Qxriccm {
 }
 
 ._3cykd-VfN_xBxf3Qxriccm ._1TdaAqMFadi0UTqilrkelR {
-    order: 6;
     flex-shrink: unset;
     align-items: center;
     justify-content: center;
@@ -635,7 +594,6 @@ body:not(:has(._1ijTaXJJA5YWl_fW2IxcaT)) ._3cykd-VfN_xBxf3Qxriccm {
 }
 
 ._3cykd-VfN_xBxf3Qxriccm ._13vrqU6oOqmmxrsZSW5O39 {
-    order: 7;
     min-width: unset;
 }
 ._3cykd-VfN_xBxf3Qxriccm ._13vrqU6oOqmmxrsZSW5O39>div {
