@@ -24,7 +24,7 @@
     url("./_font/FluentSystemIcons-Regular.ttf") format("truetype");
 }
 
-*>:has(> [class*="SVGIcon_"],> svg)::before {
+*>:has(> [class*="SVGIcon_"],> svg):not([class*="luatools"]):not([id*="luatools"]):not([class*="lt-"]):not([id*="lt-"])::before {
     content: "";
     font-family: FluentSystemIcons-Filled !important;
     font-style: normal;
@@ -33,6 +33,32 @@
     text-transform: none;
     line-height: 1;
     -webkit-font-smoothing: antialiased;
+}
+
+/* Restore Font Awesome fonts for LuaTools plugin icons.
+   Covers both the overlay wrapper descendants and direct lt- id elements. */
+.luatools-settings-overlay *::before,
+.luatools-overlay *::before,
+[id*="lt-"]::before,
+[id*="luatools-"]::before {
+    font-family: inherit !important;
+}
+
+.luatools-settings-overlay i[class*="fa-"],
+.luatools-overlay i[class*="fa-"],
+[id*="lt-"] i[class*="fa-"],
+[id*="luatools-"] i[class*="fa-"] {
+    font-family: "Font Awesome 6 Free" !important;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.luatools-settings-overlay i.fa-brands,
+.luatools-overlay i.fa-brands,
+[id*="lt-"] i.fa-brands,
+[id*="luatools-"] i.fa-brands {
+    font-family: "Font Awesome 6 Brands" !important;
+    font-weight: 400;
 }
 
 
