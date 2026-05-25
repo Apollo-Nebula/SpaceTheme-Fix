@@ -20,15 +20,6 @@ ________________________________________________________________________________
 NOTES:
 I plan to eventually add the original friends list.
 _________________________________________________________________________________________________________________________________________________________
-A modification of SpaceTheme that moves the Userpanel and Downloads button to their original positions this also removes the broken piracy checks. So...
-
--Original Userpanel
--Original Downloads Button
--Original add non steam game
--Piracy checks removed
-
-NOTES:
-I plan to eventually add the original friends list.
 
 
 <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/140e337c-74ea-4b8e-83c2-30fdd0f52816" />
