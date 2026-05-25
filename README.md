@@ -20,9 +20,19 @@ ________________________________________________________________________________
 NOTES:
 I plan to eventually add the original friends list.
 _________________________________________________________________________________________________________________________________________________________
+A modification of SpaceTheme that moves the Userpanel and Downloads button to their original positions this also removes the broken piracy checks. So...
 
-[<img width="1919" height="1032" alt="588786059-8ac36e38-65a7-4e35-92bd-a27086ab013e" src="https://github.com/user-attachments/assets/4808c01b-b59a-4f0f-9f5b-b87a21c06077" />](https://imgur.com/a/neBaYwU)
-<details>
+-Original Userpanel
+-Original Downloads Button
+-Original add non steam game
+-Piracy checks removed
+
+NOTES:
+I plan to eventually add the original friends list.
+
+
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/140e337c-74ea-4b8e-83c2-30fdd0f52816" />
+
 
 ## Installation
 1. Download [Millennium](https://docs.steambrew.app/users/installing) and follow the provided instructions to install the patcher.
