@@ -6,6 +6,7 @@ SpaceShit Creator Links
 [![KoFi](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/support.webp)](https://kofi.spacetheme.net)
 [![Website](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/website.webp)](https://spacetheme.net)
 
+reason why spaceshit wont add a toggle for the original userpanel
 <img width="1144" height="89" alt="image" src="https://github.com/user-attachments/assets/4d882365-4f4e-4b18-8de1-79b722b72242" />
 
 
