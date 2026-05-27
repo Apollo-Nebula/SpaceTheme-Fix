@@ -6,6 +6,9 @@ SpaceShit Creator Links
 [![KoFi](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/support.webp)](https://kofi.spacetheme.net)
 [![Website](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/website.webp)](https://spacetheme.net)
 
+<img width="1144" height="89" alt="image" src="https://github.com/user-attachments/assets/4d882365-4f4e-4b18-8de1-79b722b72242" />
+
+
 SpaceTheme Fix discord >>> https://discord.gg/qFt4UDr49A
 _________________________________________________________________________________________________________________________________________________________
 A modifcation of SpaceTheme that moves the Userpanel and Downloads button to their original positions this also removes the broken piracy checks. So...
