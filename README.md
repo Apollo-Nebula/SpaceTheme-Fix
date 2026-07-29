@@ -21,8 +21,8 @@ NOTES:
 I plan to eventually add the original friends list.
 _________________________________________________________________________________________________________________________________________________________
 
-[<img width="1919" height="1032" alt="588786059-8ac36e38-65a7-4e35-92bd-a27086ab013e" src="https://github.com/user-attachments/assets/4808c01b-b59a-4f0f-9f5b-b87a21c06077" />](https://imgur.com/a/neBaYwU)
-<details>
+<img width="1919" height="1030" alt="img-2026-07-29-10-44-28" src="https://github.com/user-attachments/assets/e2f680a3-ec22-4077-ac22-4d0cd559e22d" />
+
 
 ## Installation
 1. Download [Millennium](https://docs.steambrew.app/users/installing) and follow the provided instructions to install the patcher.
