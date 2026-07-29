@@ -1,14 +1,10 @@
 <div align="center">
 <h3><img height="64px" src="https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/logo.webp"></h3>
 
-SpaceShit Creator Links
+SpaceTheme Creator Links
 [![Discord](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/community.webp)](https://discord.spacetheme.net)
 [![KoFi](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/support.webp)](https://kofi.spacetheme.net)
 [![Website](https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/pills/website.webp)](https://spacetheme.net)
-
-reason why spaceshit wont add a toggle for the original userpanel
-<img width="1144" height="89" alt="image" src="https://github.com/user-attachments/assets/4d882365-4f4e-4b18-8de1-79b722b72242" />
-
 
 SpaceTheme Fix discord >>> https://discord.gg/qFt4UDr49A
 _________________________________________________________________________________________________________________________________________________________
@@ -25,9 +21,8 @@ NOTES:
 I plan to eventually add the original friends list.
 _________________________________________________________________________________________________________________________________________________________
 
-
-<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/140e337c-74ea-4b8e-83c2-30fdd0f52816" />
-
+[<img width="1919" height="1032" alt="588786059-8ac36e38-65a7-4e35-92bd-a27086ab013e" src="https://github.com/user-attachments/assets/4808c01b-b59a-4f0f-9f5b-b87a21c06077" />](https://imgur.com/a/neBaYwU)
+<details>
 
 ## Installation
 1. Download [Millennium](https://docs.steambrew.app/users/installing) and follow the provided instructions to install the patcher.
