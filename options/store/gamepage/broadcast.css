@@ -1,3 +1,0 @@
-[data-featuretarget="broadcast-embed"]:has(.broadcast_embed_top_ctn_trgt) {
-    display: none !important;
-}
