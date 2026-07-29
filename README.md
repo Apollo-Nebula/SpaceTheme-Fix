@@ -1,7 +1,7 @@
 <div align="center">
 <h3><img height="64px" src="https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/logo.webp"></h3>
 
-🤡
+Reason why this fork exists #spaceshit
 <img width="1176" height="88" alt="image" src="https://github.com/user-attachments/assets/97b9a90d-d63b-4699-8299-00ff1839dde2" />
 
 UPDATE : I ADDED BACK ICONS!! CHECK IMAGE
