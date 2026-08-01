@@ -8,7 +8,7 @@ Reason why this fork exists #spaceshit
 He tried to file a DMCA because i made a mistake of removing license
 <img width="325" height="95" alt="image" src="https://github.com/user-attachments/assets/c3a3dcca-4e5a-4a40-893f-3546a83c2da9" />
 
-Genuinely a sad person lmfao
+Genuinely a sad person lmfao, all some people want is the old Userpanel you really don't need to be like that
 
 _________________________________________________________________________________________________________________________________________________________
 
