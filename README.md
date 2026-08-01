@@ -4,6 +4,13 @@
 Reason why this fork exists #spaceshit
 <img width="1176" height="88" alt="image" src="https://github.com/user-attachments/assets/97b9a90d-d63b-4699-8299-00ff1839dde2" />
 
+
+He tried to file a DMCA because i made a mistake of removing license
+<img width="325" height="95" alt="image" src="https://github.com/user-attachments/assets/c3a3dcca-4e5a-4a40-893f-3546a83c2da9" />
+
+Genuinely a sad person lmfao
+
+
 UPDATE : I ADDED BACK ICONS!! CHECK IMAGE
 
 SpaceTheme Fix discord >>> https://discord.gg/qFt4UDr49A
